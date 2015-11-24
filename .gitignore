@@ -1,4 +1,8 @@
-MongoJavaUtil/
+MongoJavaUtil/bin/
+MongoJavaUtil/target/
+MongoJavaUtil/.classpath
+MongoJavaUtil/.project
+MongoJavaUtil/.settings
 hellojava/bin/
 hellojava/target/
 hellojava/.classpath
