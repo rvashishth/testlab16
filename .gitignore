@@ -1,4 +1,8 @@
 MongoJavaUtil/
-hellojava/
+hellojava/bin/
+hellojava/target/
+hellojava/.classpath
+hellojava/.project
+hellojava/.settings
 .metadata/
 .recommenders/
